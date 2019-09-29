@@ -13,7 +13,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 + **scrollback** with `alt-↑/↓` or `alt-pageup/down` or `shift` while scrolling the mouse
 + OR **vim-bindings**: scroll up/down in history with `alt-k` and `alt-j`. Faster with `alt-u`/`alt-d`.
 + **zoom/change font size**: same bindings as above, but holding down shift as well. `alt-home` returns to default
-+ **copy text** with `alt-c`, **paste** is `alt-v` or `shift-insert` or `alt-p` (for primary selection)
++ **copy text** with `alt-c`, **paste** is `alt-v` or `shift-insert` or `alt-s` (for primary selection)
 
 ## Pretty stuff
 
